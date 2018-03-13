@@ -1,0 +1,17 @@
+.weatherDataCont{
+  background-color: turquoise;
+  border-radius: 0 0 1vh 1vh;
+  padding: 2vh;
+}
+.dataContainer{
+  border-radius: 1vh;
+  box-shadow: 1vh blue;
+  margin: 1vh;
+  padding: 1vh;
+}
+
+.city{
+  border: 1px solid turquoise;
+  border-radius: 1vh 1vh 0 0;
+  background-color: white;
+}
